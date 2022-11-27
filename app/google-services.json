@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801294099882",
+    "project_id": "experimentacion-push",
+    "storage_bucket": "experimentacion-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801294099882:android:619845014db2c45b41b7d3",
+        "android_client_info": {
+          "package_name": "com.example.experimento_push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801294099882-hq3uqvlpj1s64a8j5dl09jdcqmmlq369.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoz_iGbM_CF32g9iBeuwr0c4t2-Xsdps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801294099882-hq3uqvlpj1s64a8j5dl09jdcqmmlq369.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
